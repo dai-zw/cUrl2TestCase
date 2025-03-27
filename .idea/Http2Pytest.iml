@@ -5,4 +5,11 @@
     <orderEntry type="jdk" jdkName="http2pytest" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/price_inquiry/templates" />
+      </list>
+    </option>
+  </component>
 </module>
